@@ -8,7 +8,7 @@
    Предобработка данных; исследовательский анализ данных<br />
    stack: `Python`, `Pandas` <br />
 3. [Продажа квартир в Санкт-Петербурге - анализ рынка недвижимости](https://github.com/katyaonetwo/Projects_yandex/blob/main/project_research_data_analysis.ipynb)<br />
-   Предобработка данных; поиск корреляций <br />
+   Предобработка данных; поиск корреляций, определение параметров, влияющих на стоимость жилья <br />
    stack: `Python`, `Pandas`, `Matplotlib` <br />
 4. [Исследование поведения пользователей сервиса аренды самокатов](https://github.com/katyaonetwo/Projects_yandex/blob/main/project_statistical_data_analysis.ipynb) <br />
    Предобработка данных; изучение аномалий в данных; исследовательский анализ данных; статистический анализ данных; проверка гипотез <br />
