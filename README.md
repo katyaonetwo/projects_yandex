@@ -4,10 +4,10 @@
    Предобработка данных; проверка гипотез <br />
    stack: `Python`, `Pandas` <br />
 2. [Исследование надёжности заёмщиков - анализ банковских данных](https://github.com/katyaonetwo/Projects_yandex/blob/main/project_data_preprocessing.ipynb) <br />
-   Предобработка данных; исследовательский анализ данных<br />
+   Предобработка данных; исследовательский анализ данных <br />
    stack: `Python`, `Pandas` <br />
 3. [Продажа квартир в Санкт-Петербурге - анализ рынка недвижимости](https://github.com/katyaonetwo/Projects_yandex/blob/main/project_research_data_analysis.ipynb)<br />
-   Предобработка данных; поиск корреляций, определение параметров, влияющих на стоимость жилья <br />
+   Предобработка данных; поиск корреляций; определение параметров, влияющих на стоимость жилья <br />
    stack: `Python`, `Pandas`, `Matplotlib` <br />
 4. [Исследование поведения пользователей сервиса аренды самокатов](https://github.com/katyaonetwo/Projects_yandex/blob/main/project_statistical_data_analysis.ipynb) <br />
    Предобработка данных; изучение аномалий в данных; исследовательский анализ данных; статистический анализ данных; проверка гипотез <br />
@@ -16,5 +16,8 @@
    Предобработка данных; исследовательский анализ данных; проверка гипотез; определение параметров, влияющих на успешность продаж игр в разных регионах мира <br />
    stack: `Python`, `Pandas`, `Seaborn`, `NumPy`, `Matplotlib`, `SciPy`  <br />
 6. [Анализ убыточности рекламы мобильного приложения](https://github.com/katyaonetwo/projects_yandex/blob/data_analysis/project_business_indicators_acquisition.ipynb) <br />
-   Когортный анализ, юнит-экономика; продуктовые метрики; оценка окупаемости рекламы <br />
+   Когортный анализ; юнит-экономика; продуктовые метрики; оценка окупаемости рекламы <br />
    stack: `Python`, `Pandas`, `Seaborn`, `NumPy`, `Matplotlib` <br />
+7. [Исследование гипотез и анализ результатов A/B теста для интернет-магазина](https://github.com/katyaonetwo/projects_yandex/blob/data_analysis/project_hypothesis_ab_testing.ipynb) <br />
+   Приоритизация гипотез; фреймворки ICE и RICE; анализ A/B-тестирования; визуализация кумулятивных метрик; выручка; средний чек; статистическая значимость изменений; тест Манна-Уитни <br />
+   stack: `Python`, `Pandas`, `NumPy`, `Matplotlib` <br />
