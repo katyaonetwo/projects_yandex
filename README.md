@@ -20,7 +20,7 @@
    stack: `Python`, `Pandas`, `Seaborn`, `NumPy`, `Matplotlib` <br />
 7. [Исследование гипотез и анализ результатов A/B теста для интернет-магазина](https://github.com/katyaonetwo/projects_yandex/blob/data_analysis/project_hypothesis_ab_testing.ipynb) <br />
    Приоритизация гипотез; фреймворки ICE и RICE; оценка результатов A/B-тестирования; визуализация кумулятивных метрик; выручка; средний чек; расчёт статистической значимости изменений между A/B группами; тест Манна-Уитни <br />
-   stack: `Python`, `Pandas`, `NumPy`, `Matplotlib` <br />
+   stack: `Python`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib` <br />
 8. [Исследование поведения пользователей в мобильном приложении](https://github.com/katyaonetwo/projects_yandex/blob/data_analysis/project_summary_2.ipynb) <br />
    Описание воронки событий; событийная аналитика; продуктовые метрики; A/B-тестирование; проверка статистических гипотез; z-критерий Фишера;  <br />
-   stack: `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Plotly`, `Seaborn`, `Math` <br />
+   stack: `Python`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Plotly`, `Seaborn`, `Math` <br />
