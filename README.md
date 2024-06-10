@@ -24,3 +24,6 @@
 8. [Исследование поведения пользователей в мобильном приложении](https://github.com/katyaonetwo/projects_yandex/blob/data_analysis/project_summary_2.ipynb) <br />
    Описание воронки событий; событийная аналитика; продуктовые метрики; A/B-тестирование; проверка статистических гипотез; z-критерий Фишера;  <br />
    stack: `Python`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Plotly`, `Seaborn`, `Math` <br />
+9. [Исследования рынка общественного питания Москвы. Рекомендации по открытию кофейни](https://github.com/katyaonetwo/projects_yandex/blob/data_analysis/project_moscow_cafe_opening.ipynb) <br />
+   Анализ рынка общепита; геоаналитика; рекомендации для бизнеса; визуализация данных; презентация для инвесторов; <br />
+   stack: `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Plotly`, `Seaborn` <br />
