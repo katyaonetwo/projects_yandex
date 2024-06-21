@@ -1,4 +1,27 @@
-# Моё портфолио pet-проектов
+<h1 align="center"> Всем привет! Меня зовут Екатерина
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"> <img src="https://em-content.zobj.net/source/apple/391/sparkles_2728.png" height="23"/> Data Analyst from Russia <img src="https://em-content.zobj.net/source/apple/391/sparkles_2728.png" height="23"/> </h3>
+
+## Обо мне
+- Верю, что с аналитикой жизнь любой компании и любого человека становится лучше.
+- Люблю находить и исследовать инсайты в данных.
+- Мои контакты:
+    - [Телеграм](https://t.me/katyakulyaa)
+    - [LinkedIn](https://www.linkedin.com/in/katyaonetwo/)
+
+## Мои скиллы
+- Продвинутое владение **Python** для аналитики:
+    - сбор, обработка и анализ данных (pandas и numpy)
+    - навыки машинного обучения (scipy и sklearn)
+    - навыки визуализации данных (matplotlib, seaborn и plotly)
+- Базовое владение **SQL**:
+    - агрегирующие функции
+    - оконные функции, ранжирование
+    - джойны, CTE
+- Базовое владение **Tableau**
+- Знание основ статистических тестов, А/Б тестирования
+
+## Моё портфолио pet-проектов
 
 1. [Продажа квартир в Санкт-Петербурге - анализ рынка недвижимости](https://github.com/katyaonetwo/Projects_yandex/blob/main/project_research_data_analysis.ipynb)<br />
    Предобработка данных; поиск корреляций; определение параметров, влияющих на стоимость жилья <br />
@@ -13,11 +36,11 @@
    Когортный анализ; юнит-экономика; продуктовые метрики; оценка окупаемости рекламы <br />
    stack: `Python`, `Pandas`, `Seaborn`, `NumPy`, `Matplotlib` <br />
 5. [Исследование гипотез и анализ результатов A/B теста для интернет-магазина](https://github.com/katyaonetwo/projects_yandex/blob/data_analysis/project_hypothesis_ab_testing.ipynb) <br />
-   Приоритизация гипотез; фреймворки ICE и RICE; оценка результатов A/B-тестирования; визуализация кумулятивных метрик; выручка; средний чек; расчёт статистической значимости изменений между A/B группами; тест Манна-Уитни <br />
+   Приоритизация гипотез; фреймворки ICE и RICE; оценка результатов A/Б-тестирования; визуализация кумулятивных метрик; выручка; средний чек; расчёт статистической значимости изменений между A/Б группами; тест Манна-Уитни <br />
    stack: `Python`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib` <br />
 6. [Исследование поведения пользователей в мобильном приложении](https://github.com/katyaonetwo/projects_yandex/blob/data_analysis/project_summary_2.ipynb) <br />
-   Описание воронки событий; событийная аналитика; продуктовые метрики; A/B-тестирование; проверка статистических гипотез; z-критерий Фишера;  <br />
+   Описание воронки событий; событийная аналитика; продуктовые метрики; A/Б-тестирование; проверка статистических гипотез; z-критерий Фишера;  <br />
    stack: `Python`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Plotly`, `Seaborn`, `Math` <br />
-7. [Исследования рынка общественного питания Москвы. Рекомендации по открытию кофейни](https://github.com/katyaonetwo/projects_yandex/blob/data_analysis/project_moscow_cafe_opening.ipynb) <br />
+7. [Исследование рынка общественного питания Москвы. Рекомендации по открытию кофейни](https://github.com/katyaonetwo/projects_yandex/blob/data_analysis/project_moscow_cafe_opening.ipynb) <br />
    Анализ рынка общепита; геоаналитика; рекомендации для бизнеса; визуализация данных; презентация для инвесторов; <br />
    stack: `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Plotly`, `Seaborn` <br />
