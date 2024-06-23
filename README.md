@@ -44,3 +44,6 @@
 7. [Исследование рынка общественного питания Москвы. Рекомендации по открытию кофейни](https://github.com/katyaonetwo/projects_yandex/blob/data_analysis/project_moscow_cafe_opening.ipynb) <br />
    Анализ рынка общепита; геоаналитика; рекомендации для бизнеса; визуализация данных; презентация для инвесторов; <br />
    stack: `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Plotly`, `Seaborn` <br />
+8. [Дашборд: Исследование конференций TED](https://public.tableau.com/shared/J4QT8XM76?:display_count=n&:origin=viz_share_link) <br />
+   Tableau; визуализация данных; построение дашбордов <br />
+
