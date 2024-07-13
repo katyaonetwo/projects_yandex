@@ -43,12 +43,12 @@
    stack: `Python`, `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Plotly`, `Seaborn`, `Math` <br />
 7. [Исследование рынка общественного питания Москвы. Рекомендации по открытию кофейни](https://github.com/katyaonetwo/projects_yandex/blob/data_analysis/project_moscow_cafe_opening.ipynb) <br />
    Анализ рынка общепита; геоаналитика; рекомендации для бизнеса; визуализация данных; презентация для инвесторов; <br />
+   stack: `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Plotly`, `Seaborn`, `Folium` <br />
 8. [Анализ товарного ассортимента интернет-магазина](https://github.com/katyaonetwo/projects_yandex/blob/cf034701136a1aa407454d7a5bc6d4bca0d34ca6/project_ecommerce_product_range.ipynb) <br />
-   Исследовательский анализ данных; ABC-анализ; сегментация ассортимента; проверка статистических гипотез; t<br />   
-   stack: `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Plotly`, `Seaborn`, `SciPy`, `Folium` <br />
-9. [Проект по SQL. Анализ издательской индустрии](https://github.com/katyaonetwo/projects_yandex/blob/cf034701136a1aa407454d7a5bc6d4bca0d34ca6/project_books_SQL.ipynb) <br />
-   Исследовательский анализ данных; ABC-анализ; сегментация ассортимента; проверка статистических гипотез; <br />   
+   Исследовательский анализ данных; ABC-анализ; сегментация ассортимента; проверка статистических гипотез; <br />
+   stack: `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Plotly`, `Seaborn`, `SciPy` <br />
+10. [Проект по SQL. Анализ издательской индустрии](https://github.com/katyaonetwo/projects_yandex/blob/cf034701136a1aa407454d7a5bc6d4bca0d34ca6/project_books_SQL.ipynb) <br />
+   Исследовательский анализ данных; ABC-анализ; сегментация ассортимента; проверка статистических гипотез; <br />
    stack: `SQL`, `Pandas`, `SqlAlchemy` <br />   
-10. [Дашборд: Исследование конференций TED](https://public.tableau.com/shared/J4QT8XM76?:display_count=n&:origin=viz_share_link) <br />
+12. [Дашборд: Исследование конференций TED](https://public.tableau.com/shared/J4QT8XM76?:display_count=n&:origin=viz_share_link) <br />
    Tableau; визуализация данных; построение дашбордов; <br />
-
