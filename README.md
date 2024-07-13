@@ -1,26 +1,3 @@
-<h1 align="center"> Всем привет! Меня зовут Екатерина
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> <img src="https://em-content.zobj.net/source/apple/391/sparkles_2728.png" height="23"/> Data Analyst from Russia <img src="https://em-content.zobj.net/source/apple/391/sparkles_2728.png" height="23"/> </h3>
-
-## Обо мне
-- Верю, что с аналитикой жизнь любой компании и любого человека становится лучше.
-- Люблю находить и исследовать инсайты в данных.
-- Мои контакты:
-    - [Телеграм](https://t.me/katyakulyaa)
-    - [LinkedIn](https://www.linkedin.com/in/katyaonetwo/)
-
-## Мои скиллы
-- Продвинутое владение **Python** для аналитики:
-    - сбор, обработка и анализ данных (pandas и numpy)
-    - навыки машинного обучения (scipy и sklearn)
-    - навыки визуализации данных (matplotlib, seaborn и plotly)
-- Базовое владение **SQL**:
-    - агрегирующие функции
-    - оконные функции, ранжирование
-    - джойны, CTE
-- Базовое владение **Tableau**
-- Знание основ статистических тестов, А/Б тестирования
-
 ## Моё портфолио pet-проектов
 
 1. [Продажа квартир в Санкт-Петербурге - анализ рынка недвижимости](https://github.com/katyaonetwo/Projects_yandex/blob/main/project_research_data_analysis.ipynb)<br />
