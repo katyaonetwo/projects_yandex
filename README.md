@@ -1,6 +1,6 @@
 <h1 align="center"> Всем привет! Меня зовут Екатерина
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> <img src="https://em-content.zobj.net/source/apple/391/sparkles_2728.png" height="23"/> Data Analyst from Russia <img src="https://em-content.zobj.net/source/apple/391/sparkles_2728.png" height="23"/> </h3>
+<h3 align="center"> <img src="https://em-content.zobj.net/source/apple/391/sparkles_2728.png" height="23"/> Я - аналитик данных <img src="https://em-content.zobj.net/source/apple/391/sparkles_2728.png" height="23"/> </h3>
 
 ## Обо мне
 - Верю, что с аналитикой жизнь любой компании и любого человека становится лучше.
